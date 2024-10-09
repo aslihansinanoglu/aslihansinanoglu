@@ -1,11 +1,12 @@
 ## Hi there Aslihan Sinanoglu👋
 
 - 🔭 I’m currently working on Software Developer
-- 🌱 I’m currently learning Reactive Native and Backend 
-- 👯 I’m looking to collaborate on I love discovering new things and new places
+- 🌱 I’m currently learning Reactive Native and Backend
+- 👯 I’m looking to collaborate on I love learning new things and Software,
+- I am olso passionate learner and developer and discovering new places
 - 💬 Ask me about Html, CSS
 - 📫 How to reach me: aslihansinanoglu1@gmail.com
-- ⚡ Fun fact: It is necessary to adapt to the age of technology
+- ⚡ Fun fact: It is necessary to adapt to the age of technology.
 
 
 
