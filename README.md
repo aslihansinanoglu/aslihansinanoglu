@@ -1,10 +1,4 @@
-## Hi there 👋
-
-
-<!--
-**aslihansinanoglu/aslihansinanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there Aslihan Sinanoglu👋
 
 - 🔭 I’m currently working on Software Developer
 - 🌱 I’m currently learning Reactive Native and Backend 
@@ -53,4 +47,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-o
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
+
+
 ![](https://github-profile-trophy.vercel.app/?username=Aslihansinanoglutheme=dracula&no-frame=false&no-bg=false&margin-w=4)
